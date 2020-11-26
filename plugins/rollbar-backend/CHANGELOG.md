@@ -1,5 +1,13 @@
 # @backstage/plugin-rollbar-backend
 
+## 0.1.4
+
+### Patch Changes
+
+- 3a201c5d5: Add config schema for the rollbar & rollbar-backend plugins
+- Updated dependencies [3aa7efb3f]
+  - @backstage/backend-common@0.3.2
+
 ## 0.1.3
 
 ### Patch Changes
