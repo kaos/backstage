@@ -9,6 +9,7 @@
     "@backstage/core": "^0.7.1",
     "@backstage/integration-react": "^0.1.1",
     "@backstage/plugin-api-docs": "^0.4.8",
+    "@backstage/plugin-badges": "^0.1.1",
     "@backstage/plugin-catalog": "^0.4.2",
     "@backstage/plugin-catalog-import": "^0.4.3",
     "@backstage/plugin-catalog-react": "^0.1.1",
